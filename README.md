@@ -28,3 +28,4 @@ kubectl apply -f service.yml
 kubectl get nodes
 kubectl get pods
 kubectl get services
+test line
